@@ -28,7 +28,10 @@ ArduEasonBOY 套件包含的材料列表如下:
 
 成品视频:
 
-<video src="images/boy.mp4" controls title="Title"></video>
+
+https://github.com/eggfly/ArduEasonBOY/assets/922837/d35b2d80-c07e-462b-8d9b-6209c5b5d3c8
+
+
 
 # ArduEasonBOY 焊接教程
 
@@ -41,6 +44,7 @@ ArduEasonBOY 套件包含的材料列表如下:
 反面元件: Pro Micro，TP4056，三极管，二极管，锂电池
 
 
+
 * 在背面焊接 Pro Micro 和 TP4056 模块，如图：
 ![Alt text](images/pro_micro.jpg)
 
@@ -50,7 +54,7 @@ ArduEasonBOY 套件包含的材料列表如下:
 
 * 焊接其他元件，所有元件参考丝印或者这个3D渲染就行
 
-<video src="images/3d.mp4" controls title="3D"></video>
+https://github.com/eggfly/ArduEasonBOY/assets/922837/0d373e0e-9bdc-43ab-adcb-bfc1e415d49c
 
 
 * 使用如意钳给背面突出的针脚剪掉找平
